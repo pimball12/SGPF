@@ -1,2 +1,2 @@
 # SGPF
-Sistema de Gestão de Projeto para Ferramentaria
+Sistema de Gestão de Projetos para Ferramentaria
